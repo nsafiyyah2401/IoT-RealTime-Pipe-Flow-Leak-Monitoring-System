@@ -16,7 +16,6 @@ This project implements an IoT-based real-time pipe flow and leak monitoring pro
 - [Implementation Steps](#implementation-steps)
 - [Testing & Results](#testing--results)
 - [How to Run](#how-to-run)
-- [License](#license)
 
 ---
 
@@ -170,6 +169,3 @@ Test 3 conditions:
 7. View real-time dashboard  
 
 ---
-
-## 📄 License
-This project is open-source under the MIT License.
