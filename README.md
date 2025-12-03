@@ -92,7 +92,7 @@ The system focuses on early leak detection, remote monitoring, and accurate flow
 ---
 
 ## 🔌 Schematic Diagram
-*(Add your schematic image here e.g., schematic.png)*
+*(schematic_diagram.png)*
 
 ---
 
