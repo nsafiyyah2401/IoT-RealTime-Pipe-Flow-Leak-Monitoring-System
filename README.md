@@ -5,17 +5,17 @@ This project implements an IoT-based real-time pipe flow and leak monitoring pro
 ---
 
 ## 📌 Table of Contents
-- [Introduction](#introduction)
-- [Problem Statement](#problem-statement)
-- [Project Objectives](#project-objectives)
-- [Project Scope](#project-scope)
-- [System Features](#system-features)
-- [Hardware Components](#hardware-components)
-- [Schematic Diagram](#schematic-diagram)
-- [Code Overview](#code-overview)
-- [Implementation Steps](#implementation-steps)
-- [Testing & Results](#testing--results)
-- [How to Run](#how-to-run)
+- [Introduction](#--introduction)
+- [Problem Statement](#--problem-statement)
+- [Project Objectives](#--project-objectives)
+- [Project Scope](#--project-scope)
+- [System Features](#--system-features)
+- [Hardware Components](#--hardware-components)
+- [Schematic Diagram](#--schematic-diagram)
+- [Code Overview](#--code-overview)
+- [Implementation Steps](#--implementation-steps)
+- [Testing & Results](#--testing--results)
+- [How to Run](#--how-to-run)
 
 ---
 
