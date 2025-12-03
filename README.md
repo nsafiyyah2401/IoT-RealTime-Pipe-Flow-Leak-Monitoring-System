@@ -95,7 +95,7 @@ The system uses IoT sensors, wireless communication, and a web interface to dete
 
 ## Schematic Diagram
 
-🔌 *schematic_diagram.png*
+<img width="990" height="503" alt="Image" src="https://github.com/user-attachments/assets/76b5bbfa-7086-4837-a7eb-1303507b012c" />
 
 ---
 
